@@ -13,8 +13,8 @@ Rock paper scissors is often used as a fair choosing method between two people, 
 # Link
 
 
-* For Figma: [https://github.com/zubairehman/flutter-boilerplate-project/tree/master (stable channel)](https://www.figma.com/file/YhVZuMOj06EeCQ1RBpiKf8/Rock-Paper-Scissor-Game-(Community)?node-id=3%3A22)
-* For Youtube: [https://github.com/zubairehman/flutter-boilerplate-project/tree/feature/web-support (beta channel)](https://www.figma.com/file/YhVZuMOj06EeCQ1RBpiKf8/Rock-Paper-Scissor-Game-(Community)?node-id=3%3A22)
+* For Figma: [Figma](https://www.figma.com/file/YhVZuMOj06EeCQ1RBpiKf8/Rock-Paper-Scissor-Game-(Community)?node-id=3%3A22)
+* For Youtube: [YouTube](https://www.youtube.com/watch?v=F3-BM_jiLak)
 
 
 # How to Use 
