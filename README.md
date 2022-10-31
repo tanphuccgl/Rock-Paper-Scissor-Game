@@ -7,3 +7,40 @@ Rock paper scissors (also known by other orderings of the three items, with "roc
 A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie. The game spread from China while developing different variants in signs over time.
 
 Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with a degree of skill by recognizing and exploiting non-random behavior in opponents.
+
+# Link
+
+
+* For Figma: [https://github.com/zubairehman/flutter-boilerplate-project/tree/master (stable channel)](https://www.figma.com/file/YhVZuMOj06EeCQ1RBpiKf8/Rock-Paper-Scissor-Game-(Community)?node-id=3%3A22)
+* For Youtube: [https://github.com/zubairehman/flutter-boilerplate-project/tree/feature/web-support (beta channel)](https://www.figma.com/file/YhVZuMOj06EeCQ1RBpiKf8/Rock-Paper-Scissor-Game-(Community)?node-id=3%3A22)
+
+
+# How to Use 
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/tanphuccgl/Rock-Paper-Scissor-Game.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Run app with :
+
+```
+flutter run 
+```
+
+
+# Screenshot
+
