@@ -1,5 +1,7 @@
 # Rock-Paper-Scissor-Game
 
+<img src="https://raw.githubusercontent.com/tanphuccgl/Rock-Paper-Scissor-Game/main/assets/309464808_1305556973533731_7986530469202869474_n.png" > 
+
 # Description
 
 Rock paper scissors (also known by other orderings of the three items, with "rock" sometimes being called "stone," or as Rochambeau, roshambo, or ro-sham-bo) is a hand game originating from China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
@@ -44,3 +46,4 @@ flutter run
 
 # Screenshot
 
+<img src="https://raw.githubusercontent.com/tanphuccgl/Rock-Paper-Scissor-Game/main/assets/Screenshot_1667233725.png" width=30% height=50%> <img src="https://raw.githubusercontent.com/tanphuccgl/Rock-Paper-Scissor-Game/main/assets/Screenshot_1667233722.png" width=30% height=50%>  <img src="https://raw.githubusercontent.com/tanphuccgl/Rock-Paper-Scissor-Game/main/assets/Screenshot_1667233716.png" width=30% height=50%>  
